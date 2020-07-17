@@ -7,9 +7,6 @@
 # Welricsson José do Carmo
 <sub>*Analista DBM BI* em Marketdata Solutions Brasil</sub>
 
-Descrever experiencia aqui...
-
-
 **Background in:** Python, Machine Learning e SQL Server.
 
 **Links:**
