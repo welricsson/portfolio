@@ -15,13 +15,15 @@ Descrever experiencia aqui...
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/welricsson/)
 * [Medium](https://medium.com/@welricsson)
-
+* [Instagram](https://www.instagram.com/welricsson/)
 
 ## Projetos:
+
+* **Analisando os Dados do Airbnb - Rio de Janeiro...:** https://bit.ly/3fCvQON
+
 Veja os tutoriais publicados em meu perfil do Medium:
 
-* **Em construção...:** https://bit.ly/...
-
+* **Em construção...:**
 
 ---
 
