@@ -4,7 +4,7 @@
   <img src="banner.png" >
 </p>
 
-# Welricsson Carmo
+# Welricsson José do Carmo
 <sub>*Analista DBM BI* em Marketdata Solutions Brasil</sub>
 
 Descrever experiencia aqui...
@@ -19,7 +19,7 @@ Descrever experiencia aqui...
 
 ## Projetos:
 
-* **Analisando os Dados do Airbnb - Rio de Janeiro...:** https://bit.ly/3fCvQON
+* **Analisando os Dados do Airbnb - Rio de Janeiro:** https://bit.ly/3fCvQON
 
 Veja os tutoriais publicados em meu perfil do Medium:
 
