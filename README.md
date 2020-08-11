@@ -12,7 +12,7 @@
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/welricsson/)
 * [Medium](https://medium.com/@welricsson)
-* [Instagram](https://www.instagram.com/welricsson/)
+* [Instagram](https://www.instagram.com/jornadacompartilhada/)
 
 ## Projetos:
 
