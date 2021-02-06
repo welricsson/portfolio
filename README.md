@@ -16,7 +16,7 @@
 
 ## Projetos:
 
-* **Analisando os Dados do Airbnb - Rio de Janeiro:** https://bit.ly/3fCvQON
+* **Analisando os Dados do Airbnb - Rio de Janeiro:** https://bit.ly/2LrIaI7
 
 Veja os tutoriais publicados em meu perfil do Medium:
 
